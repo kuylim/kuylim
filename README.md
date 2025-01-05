@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Methea](https://github.com/MetheaX)
 
-- 🌱 I’m currently pursuing **Master of Science in Computer Science**
-
 - 💬 Ask me about **Java, Spring Framework**
 
 <h3 align="left">Connect with me:</h3>
